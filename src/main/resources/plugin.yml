@@ -1,0 +1,8 @@
+name: PluginTemplate
+version: 1.1
+main: plugintemplate.PluginTemplate
+api-version: 1.20
+commands:
+  commandName:
+    description:  Command Description
+    usage: "/commandName"
